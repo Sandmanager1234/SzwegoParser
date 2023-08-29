@@ -1,0 +1,441 @@
+{
+    "Adidas": [
+        [
+            "[aA][dD][iI][dD][aA][sS]",
+            "[aA][dD][rR][iI][aA][sS]",
+            "[aA][dD][iI][zZ][eE][rR][oO]",
+            "^[aA][dD]\\s"
+        ],
+        [
+            "[fF][oO][rR][uU][mM]",
+            "[rR][eE][tT][rR][oO][pP][yY]",
+            "[sS][uU][pP][eE][rR][sS][tT][aA][rR]",
+            "[aA][dD][iI][mM][aA][tT][iI][cC]",
+            "[oO][rR][iI][gG][iI][nN][aA][lL][sS]",
+            "^[nN][iI][tT][eE]\\s",
+            "\\s[nN][iI][tT][eE]\\s",
+            "[yY][eE][eE][zZ][yY]",
+            "[bB][oO][oO][sS][tT]",
+            "[yY]-3",
+            "[aA][rR][eE][sS][pP][oO][nN][nN][sS][eE]",
+            "[rR][aA][cC][iI][nN][gG]",
+            "[sS][aA][mM][bB][aA][rR][oO][sS][eE]",
+            "[aA][lL][pP][hH][aA][mM][aA][gG][mM][aA]"
+        ]
+    ],
+    "Nike": [
+        [
+            "[nN][iI][kK][eE]",
+            "^[nN][kK]\\s",
+            "\\s[nN][kK]\\s"
+        ],
+        [
+            "[aA][iI][rR]",
+            "[dD][uU][nN][kK]",
+            "[zZ][oO][oO][mM]",
+            "[lL][eE][bB][rR][oO][nN]",
+            "[kK][yY][rR][iI][eE]",
+            "[jJ][oO][rR][dD][aA][nN]",
+            "[kK][oO][bB][eE]",
+            "[kK][iI][lL][lL][sS][hH][oO][tT]",
+            "[tT][pP][uU]",
+            "[pP][gG] 6"
+        ]
+    ],
+    "Ecco": [
+        [
+            "[eE][cC][cC][oO]"
+        ]
+    ],
+    "New Balance": [
+        [
+            "[nN][eE][wW] [bB][aA][lL][aA][nN][cC][eE]",
+            "\\s[nN][bB]",
+            "[nN][eE][wW][bB][aA][lL][aA][nN][cC][eE]",
+            "[nN][eE][wW] [bB][lL][aA][aA][nN][cC][eE]"
+        ],
+        [
+            "2002[rR]",
+            "[bB][bB]550",
+            "[mM][sS]327",
+            "[mM]1906[rR]"
+        ]
+    ],
+    "Vans": [
+        [
+            "[vV][aA][nN][sS]"
+        ]
+    ],
+    "Puma": [
+        [
+            "[pP][uU][mM][aA]"
+        ],
+        [
+            "[cC][lL][yY][dD][eE]",
+            "[mM][bB][11]"
+        ]
+    ],
+    "Fila": [
+        [
+            "fila"
+        ]
+    ],
+    "Under Armour": [
+        [
+            "[uU][nN][dD][eE][rR] [aA][rR][mM][oO][uU][rR]",
+            "[uU][aA]"
+        ]
+    ],
+    "Converse": [
+        [
+            "[cC][oO][nN][vV][eE][rR][sS][eE]"
+        ],
+        [
+            "[cC][hH][uU][cC][kK]",
+            "[cC][xX]",
+            "[sS][tT][uU][sS][sS][yY]",
+            "[aA][lL][lL][sS][tT][aA][rR]"
+        ]
+    ],
+    "Discovery": [
+        [
+            "[dD][iI][sS][cC][oO][vV][eE][rR][yY]"
+        ]
+    ],
+    "Asics": [
+        [
+            "[aA][sS][iI][cC][sS]"
+        ],
+        [
+            "[gG][eE][lL]"
+        ]
+    ],
+    "Keen Uneek": [
+        [
+            "[kK][eE][eE][nN]"
+        ]
+    ],
+    "Equalizer Oazis": [
+        [
+            "[eE][qQ][uU][aA][lL][iI][zZ][eE][rR]"
+        ]
+    ],
+    "Alexander McQueen": [
+        [
+            "[aA][lL][eE][xX][aA][nN][dD][eE][rR] [mM][cC][qQ][uU][eE][eE][nN]"
+        ]
+    ],
+    "Dior": [
+        [
+            "[dD][iI][oO][rR]"
+        ]
+    ],
+    "Good Bai": [
+        [
+            "[gG][oO][oO][dD] [bB][aA][iI]"
+        ]
+    ],
+    "Lanvin": [
+        [
+            "[lL][aA][nN][vV][iI][nN]"
+        ]
+    ],
+    "Louis vuitton": [
+        [
+            "[lL][oO][uU][iI][sS][  ][vV][uU][iI][tT][tT][oO][nN]",
+            "[lL][vV]"
+        ]
+    ],
+    "Bape": [
+        [
+            "[bB][aA][pP][eE]"
+        ]
+    ],
+    "Versace": [
+        [
+            "[vV][eE][rR][sS][aA][cC][eE]"
+        ]
+    ],
+    "Onitsuka Tiger": [
+        [
+            "[oO][nN][iI][tT][sS][uU][kK][aA]"
+        ]
+    ],
+    "Skechers": [
+        [
+            "[sS][kK][eE][cC][hH][eE][rR][sS]"
+        ]
+    ],
+    "by Virgin": [
+        [
+            "[vV][iI][rR][gG][iI][nN]"
+        ]
+    ],
+    "Prada": [
+        [
+            "[pP][rR][aA][dD][aA]"
+        ]
+    ],
+    "Old Order": [
+        [
+            "[oO][lL][dD] [oO][rR][dD][eE][rR]"
+        ]
+    ],
+    "Maison Margiela": [
+        [
+            "[mM][aA][rR][gG][iI][eE][lL][aA]"
+        ]
+    ],
+    "Givenchy": [
+        [
+            "[gG][iI][vV][eE][nN][cC][hH][yY]"
+        ]
+    ],
+    "Burberry": [
+        [
+            "[bB][uU][rR][bB][eE][rR][rR][yY]"
+        ]
+    ],
+    "Amiri": [
+        [
+            "[aA][mM][iI][rR][iI]"
+        ]
+    ],
+    "Ader Error": [
+        [
+            "[aA][dD][eE][rR]"
+        ]
+    ],
+    "Veja Leather": [
+        [
+            "[vV][eE][jJ][aA]"
+        ]
+    ],
+    "Matnut Blood": [
+        [
+            "[mM][aA][tT][nN][uU][tT] [bB][lL][oO][oO][dD]"
+        ]
+    ],
+    "Ugg": [
+        [
+            "[uU][gG][gG]"
+        ]
+    ],
+    "Jagger": [
+        [
+            "[jJ][aA][gG][gG][eE][rR]"
+        ]
+    ],
+    "Gucci": [
+        [
+            "[gG][uU][cC][cC][iI]"
+        ]
+    ],
+    "Casual style": [
+        [
+            "[cC][aA][sS][uU][aA][lL] [sS][tT][yY][lL][eE]"
+        ]
+    ],
+    "Cat": [
+        [
+            "[cC][aA][tT]"
+        ]
+    ],
+    "Represent Reptor": [
+        [
+            "[rR][eE][pP][rR][eE][sS][eE][nN][tT] [rR][eE][pP][tT][oO][rR]"
+        ]
+    ],
+    "Dr Martens": [
+        [
+            "[mM][aA][rR][tT][eE][nN][sS]"
+        ]
+    ],
+    "Rhude": [
+        [
+            "[rR][hH][uU][dD][eE]"
+        ]
+    ],
+    "Timberland": [
+        [
+            "[tT][iI][mM][bB][eE][rR][lL][aA][nN][dD]"
+        ]
+    ],
+    "Engineered Garments": [
+        [
+            "[eE][nN][gG][iI][nN][eE][eE][rR][eE][dD] [gG][aA][rR][mM][eE][nN][tT][sS]"
+        ]
+    ],
+    "Balenciaga": [
+        [
+            "[bB][aA][lL][eE][nN][cC][iI][aA][gG][aA]"
+        ]
+    ],
+    "Valentino Garavani": [
+        [
+            "[vV][aA][lL][eE][nN][tT][iI][oO][nN][oO] [gG][aA][rR][aA][vV][aA][nN][iI]"
+        ]
+    ],
+    "Bottega Veneta": [
+        [
+            "[vV][eE][nN][eE][tT][aA]"
+        ]
+    ],
+    "Columbia": [
+        [
+            "[cC][oO][lL][uU][mM][bB][iI][aA]"
+        ]
+    ],
+    "Roger Viver": [
+        [
+            "[rR][oO][gG][eE][rR] [vV][iI][vV][iI][eE][rR]"
+        ]
+    ],
+    "Balmain": [
+        [
+            "[bB][aA][lL][mM][aA][iI][nN]"
+        ]
+    ],
+    "Banu": [
+        [
+            "[bB][aA][nN][uU]"
+        ]
+    ],
+    "The North Face": [
+        [
+            "[tT][hH][eE] [nN][oO][rR][tT][hH] [fF][aA][cC][eE]",
+            "[tT][hH][eE][nN][oO][rR][tT][hH][fF][aA][cC][eE]"
+        ]
+    ],
+    "Cdg": [
+        [
+            "[cC][oO][mM][mM][eE]",
+            "[cC][dD][gG]"
+        ]
+    ],
+    "Chanel": [
+        [
+            "[cC][hH][aA][nN][eE][lL]",
+            "[cC][hH][aA][nN][eE]"
+        ]
+    ],
+    "Fear Of God": [
+        [
+            "[fF][eE][aA][rR] [oO][fF] [gG][oO][dD]",
+            "[fF][oO][gG]"
+        ]
+    ],
+    "Fendi": [
+        [
+            "[fF][eE][nN][dD][iI]",
+            "[fF][eE][nN][dD][lL]"
+        ]
+    ],
+    "Golden Goose": [
+        [
+            "[gG][oO][lL][dD][eE][nN] [gG][oO][oO][sS][eE]"
+        ]
+    ],
+    "Vessel": [
+        [
+            "[vV][eE][sS][sS][eE][lL]"
+        ]
+    ],
+    "Mlb": [
+        [
+            "[mM][lL][bB]"
+        ]
+    ],
+    "Maison Mihara": [
+        [
+            "[mM][iI][hH][aA][rR][aA]"
+        ]
+    ],
+    "Otz shoes": [
+        [
+            "[oO][tT][zZ]"
+        ]
+    ],
+    "Crocs": [
+        [
+            "[cC][rR][oO][cC][sS]"
+        ]
+    ],
+    "Smile Republic": [
+        [
+            "[sS][mM][iI][lL][eE] [rR][eE][pP][uU][bB][lL][iI][cC]",
+            "[sS][mM][iI][lL][eE][rR][eE][pP][uU][bB][lL][iI][cC]"
+        ]
+    ],
+    "Starwalk": [
+        [
+            "[sS][tT][aA][rR][wW][aA][lL][kK]",
+            "[sS][tT][aA][rR] [wW][aA][lL][kK]"
+        ]
+    ],
+    "The Last Redemption": [
+        [
+            "[tT][hH][eE] [lL][aA][sS][tT] [rR][eE][dD][eE][mM][pP][tT][iI][oO][nN]"
+        ]
+    ],
+    "Vision Street Wear": [
+        [
+            "[vV][iI][sS][iI][oO][nN]"
+        ]
+    ],
+    "Hoka One": [
+        [
+            "[hH][oO][kK][aA]"
+        ]
+    ],
+    "Chrome hearts": [
+        [
+            "[cC][hH][rR][oO][mM][eE]"
+        ]
+    ],
+    "Boss": [
+        [
+            "[bB][oO][sS][sS]"
+        ]
+    ],
+    "Armani": [
+        [
+            "[aA][rR][mM][aA][nN][iI]"
+        ]
+    ],
+    "Revenge X Storm": [
+        [
+            "[rR][eE][vV][eE][nN][gG][eE]"
+        ]
+    ],
+    "lululemon": [
+        [
+            "[lL][uU][lL][uU][lL][eE][mM][oO][nN]"
+        ]
+    ],
+    "Salomon": [
+        [
+            "[sS][aA][lL][oO][mM][oO][nN]"
+        ]
+    ],
+    "Premiata": [
+        [
+            "[rR][iI][eE][nN]"
+        ]
+    ],
+    "Celine": [
+        [
+            "[cC][eE][lL][iI][nN][eE]"
+        ]
+    ],
+    "MSCHF": [
+        [
+            "[mM][sS][cC][hH][fF]"
+        ]
+    ],
+    "Uzis": [
+        [
+            "[uU][zZ][iI][sS]"
+        ]
+    ]
+}
